@@ -1,5 +1,5 @@
 ---
 title: "A Test"
-date: YYYY-MM-DD
+date: 2020-05-07
 ---
 test.
